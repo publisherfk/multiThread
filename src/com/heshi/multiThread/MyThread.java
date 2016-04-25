@@ -1,4 +1,4 @@
-package multiThread;
+package com.heshi.multiThread;
 
 public class MyThread extends Thread {
 
