@@ -1,5 +1,7 @@
 package day20160427;
-
+/*
+ * 函数
+ */
 public class Main {
 
 	public int i=10;
